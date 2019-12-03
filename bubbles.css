@@ -73,6 +73,7 @@ main {
 }
 
 input {
+  appearance: none;
   border: 1px solid #444;
   display: block;
   font-size: 1.25rem;
