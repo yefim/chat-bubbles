@@ -41,3 +41,6 @@ $form.addEventListener('submit', function(e) {
 
   $input.value = '';
 });
+
+console.log(`%cOh ho ho, you've come to inspect some source.
+The more readable source is up on github: https://github.com/yefim/chat-bubbles.`, 'font-size: 20px');
